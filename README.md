@@ -5,4 +5,5 @@ how do you do this readme shit
 
 oh okay I got it yall
 
-<img width="200" height="200" alt="303" src="https://github.com/user-attachments/assets/ad54ab64-2165-4434-9deb-ed9b1d3ba389" />
+<img width="644" height="496" alt="317" src="https://github.com/user-attachments/assets/f670dac1-de92-45b1-b5d9-4f2218afb989" />
+
